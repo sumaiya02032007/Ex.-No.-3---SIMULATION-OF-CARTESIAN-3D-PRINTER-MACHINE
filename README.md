@@ -46,7 +46,8 @@ To simulate the construction of cartesian 3D printer and to get in-depth knowled
 1.	Move the x-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the x-axis assembly.
 2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
-4.	## OUTPUT
+
+## OUTPUT
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
@@ -60,8 +61,11 @@ To simulate the construction of cartesian 3D printer and to get in-depth knowled
 ## OUTPUT:
 <img width="1084" height="864" alt="image" src="https://github.com/user-attachments/assets/85a33c74-2451-4528-9321-6fd168b87a79" />
 
+
 ### NAME: S.SUMAIYA
 ### REGISTER NUMBER: 212225040437
 
 ## RESULT: 
 Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
+4.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
