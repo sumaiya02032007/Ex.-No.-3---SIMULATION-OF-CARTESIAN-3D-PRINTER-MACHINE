@@ -49,15 +49,15 @@
 ## OUTPUT
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-![WhatsApp Image 2026-03-15 at 6 13 20 PM](https://github.com/user-attachments/assets/36cccd29-05d2-4fbd-aebf-c2bccf14e1cd)
+![WhatsApp Image 2026-03-19 at 3 00 10 PM (2)](https://github.com/user-attachments/assets/65f1e895-bcf4-4ac6-a909-9de86f7477f0)
 
-![WhatsApp Image 2026-03-15 at 6 13 20 PM (1)](https://github.com/user-attachments/assets/b88be7e5-482c-45b6-8e48-846fe6a9ca5c)
+![WhatsApp Image 2026-03-19 at 3 00 10 PM (1)](https://github.com/user-attachments/assets/15d856b2-d3d9-43c3-aa6e-3e9c9fb94efe)
 
-![WhatsApp Image 2026-03-15 at 6 13 21 PM](https://github.com/user-attachments/assets/778f15a3-1d0d-4a3c-afa5-809a01e78238)
+![WhatsApp Image 2026-03-19 at 3 00 10 PM](https://github.com/user-attachments/assets/f42acc4d-e031-4680-904c-43270d298cce)
 
-## Output
-<img width="1920" height="1200" alt="Screenshot 2026-03-15 205936" src="https://github.com/user-attachments/assets/2aa806c0-20b0-4c1d-9487-29c1ce19d195" />
+![WhatsApp Image 2026-03-19 at 3 00 09 PM](https://github.com/user-attachments/assets/0ae9c3c2-7e93-4c7e-b48b-09f58d33fc88)
 
+<img width="1920" height="1200" alt="Screenshot 2026-03-15 205936" src="https://github.com/user-attachments/assets/b53d07b0-b272-448e-906a-25a4b2674fe2" />
 
 
 ### Name: S.SUMAIYA
